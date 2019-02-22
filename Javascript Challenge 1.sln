@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Javascript Challenge 1", "Javascript Challenge 1\Javascript Challenge 1.csproj", "{CAFE81C7-8FAE-45FF-9FCB-FB784171BA2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAFE81C7-8FAE-45FF-9FCB-FB784171BA2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAFE81C7-8FAE-45FF-9FCB-FB784171BA2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAFE81C7-8FAE-45FF-9FCB-FB784171BA2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAFE81C7-8FAE-45FF-9FCB-FB784171BA2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C35921CE-2D81-4B06-BACB-EDFC1726F4B3}
+	EndGlobalSection
+EndGlobal
